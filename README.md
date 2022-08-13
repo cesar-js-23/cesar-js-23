@@ -1,4 +1,4 @@
-[[<h1 align="center">Hi 👋, I'm Cesar Julian</h1>
+<h1 align="center">Hi 👋, I'm Cesar Julian</h1>
 <h3 align="center">A passionate developer from Spain</h3>
 
 - 🌱&nbsp;&nbsp;I’m currently learning **React,TypeScript and Express**
